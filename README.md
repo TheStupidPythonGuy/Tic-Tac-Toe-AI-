@@ -13,8 +13,8 @@ A 1 player Tic Tac Toe game with AI
 
 ## Installation
 
-1. Download the file and run **chmod +x /path/to/Converter.py** in your terminal.
-2. Run **./path/to/Converter.py**
+1. Download the file and run **chmod +x /path/to/Tic Tac Toe (AI).py** in your terminal.
+2. Run **./path/to/Tic Tac Toe (AI).py**
 
 ## License
 
